@@ -1,4 +1,4 @@
-# Materials and source code for **JediPixels** course 
+# FLutter - Materials and source code for **JediPixels** course 
 > # Sticky Grouped Headers in Flutter 
 
 **Flutter Course Demo App**
