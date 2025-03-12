@@ -1,9 +1,9 @@
 # Materials and source code for **JediPixels** course 
 > # Sticky Grouped Headers in Flutter 
 
-**Course Demo App**
+**Flutter Course Demo App**
 
-Need to create grouped sticky headers?
+Need to create grouped sticky headers in Flutter?
 
 There is a new widget in town, the SliverMainAxisGroup allows
 you to arrange multiple slivers together.
